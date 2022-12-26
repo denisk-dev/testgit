@@ -1,4 +1,5 @@
 one
+giraffe
 tiger
 lion
 two
